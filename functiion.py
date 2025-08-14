@@ -4,3 +4,4 @@ def test(*nums):
     s=int(nums*3)
     print("Sum of squares:", s)
 test(1,2,3,4,5)
+print("hello")
